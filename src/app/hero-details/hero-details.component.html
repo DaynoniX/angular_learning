@@ -1,0 +1,14 @@
+<div class="column">
+  <div *ngIf="hero" >
+    <h2> You selected: {{hero.name}}</h2>
+    <div>
+      <span>Heroes ID: {{hero.id}}</span>
+      <div class="input-row">
+        <label> Change data:</label>
+        <input [(ngModel)]="hero.name" type="text" >
+      </div>
+    </div>
+  </div>
+  <button class="button" (click)="save()">Save</button>
+  <button class="button" (click)="goBack()">Go Back</button>
+</div>

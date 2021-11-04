@@ -1,0 +1,1031 @@
+{
+  "links": {
+    "self": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/News",
+    "first": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/News?page=1",
+    "next": null,
+    "prev": null,
+    "last": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/News?page=1"
+  },
+  "meta": {
+    "executionDate": "2021-02-03T08:13:18",
+    "cmsDomain": "http://investors.senseibio.com",
+    "count": 26
+  },
+  "data": [
+    {
+      "id": 6661,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6661",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-announces-launch-initial-public-offering"
+      },
+      "title": "Sensei Biotherapeutics Announces Launch of Initial Public Offering",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "BOSTON, MA &nbsp; &nbsp;and ROCKVILLE, MD&nbsp; –&nbsp; February 1, 2021&nbsp; – Sensei Biotherapeutics, Inc., a clinical-stage immunotherapy company focused on the discovery and development of next generation therapeutics for cancer, today announced that it has launched an underwritten initial public offering of 5,885,000",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2021-02-01T17:00:00",
+        "date": "2021-02-01T12:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EST"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Announces Launch of Initial Public Offering",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6661/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2021-02-02T19:55:24",
+      "lastUpdatedUTC": "2021-02-02T19:56:40"
+    },
+    {
+      "id": 6666,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6666",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-appoints-deneen-vojta-md-its-board"
+      },
+      "title": "Sensei Biotherapeutics Appoints Deneen Vojta, M.D. to its Board of Directors",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "BOSTON, MA    and GAITHERSBURG, MD  –  January 29, 2021  – Sensei Biotherapeutics, Inc., a clinical-stage immunotherapy company focused on the discovery and development of next generation therapeutics for cancer, today announced the appointment of Deneen Vojta, M.D. to its Board of Directors. Dr.",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2021-01-29T17:00:00",
+        "date": "2021-01-29T12:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EST"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Appoints Deneen Vojta, M.D. to its Board of Directors",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6666/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2021-02-02T19:56:07",
+      "lastUpdatedUTC": "2021-02-02T19:57:06"
+    },
+    {
+      "id": 6451,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6451",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-announces-30-million-financing-advance"
+      },
+      "title": "Sensei Biotherapeutics Announces $30 Million Financing to Advance Clinical Pipeline of Oncology Therapeutics and Proprietary ImmunoPhage™ Platform",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "– Round co-led by Apeiron Investment Group and Catalio Capital Management – Proceeds support advancement of lead product candidate and next-generation platform for personalized yet off-the-shelf cancer immunotherapies BOSTON, MA  and ROCKVILLE, MD – January 11, 2021  – Sensei Biotherapeutics, Inc.,",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2021-01-11T13:00:00",
+        "date": "2021-01-11T08:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EST"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Announces $30 Million Financing to Advance Clinical Pipeline of Oncology Therapeutics and Proprietary ImmunoPhage™ Platform",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6451/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2021-01-13T22:34:23",
+      "lastUpdatedUTC": "2021-01-13T22:38:18"
+    },
+    {
+      "id": 6356,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6356",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-presents-additional-data-phase-12"
+      },
+      "title": "Sensei Biotherapeutics Presents Additional Data from Phase 1/2 Clinical Trial of SNS-301 at the Society for Immunotherapy of Cancer (SITC) Annual Meeting",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "-&nbsp; SNS-301 demonstrated prolonged partial response and improvement in immune markers in PD-L1 negative disease patient with 43% tumor reduction -&nbsp; 30+ week stable disease observed in 2 patients BOSTON, Mass. &amp; GAITHERSBURG, Md.--( BUSINESS WIRE )--Sensei Biotherapeutics, Inc., a clinical-stage",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2020-11-09T13:00:00",
+        "date": "2020-11-09T08:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EST"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Presents Additional Data from Phase 1/2 Clinical Trial of SNS-301 at the Society for Immunotherapy of Cancer (SITC) Annual Meeting",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6356/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T06:26:33",
+      "lastUpdatedUTC": "2021-01-14T01:43:22"
+    },
+    {
+      "id": 6351,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6351",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-announces-appointment-anu-hoey-chief"
+      },
+      "title": "Sensei Biotherapeutics Announces Appointment of Anu Hoey as Chief Business Officer",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "GAITHERSBURG, Md. &amp; BOSTON--( BUSINESS WIRE )--Sensei Biotherapeutics, Inc., a clinical-stage biopharmaceutical company developing personalized yet off the shelf immunotherapies for cancer and infectious diseases, today announced the appointment of Anu Hoey as Chief Business Officer, responsible",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2020-10-22T12:00:00",
+        "date": "2020-10-22T08:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EDT"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Announces Appointment of Anu Hoey as Chief Business Officer",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6351/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T06:25:14",
+      "lastUpdatedUTC": "2021-01-14T01:44:08"
+    },
+    {
+      "id": 6346,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6346",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-announces-285-million-financing-advance"
+      },
+      "title": "Sensei Biotherapeutics Announces $28.5 Million Financing To Advance Clinical Pipeline and Immunophage™ Platform Targeting Multiple Cancers",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "BOSTON &amp; GAITHERSBURG, Md.--( BUSINESS WIRE )--Sensei Biotherapeutics, Inc., a clinical-stage biopharmaceutical company developing personalized yet off the shelf immunotherapies for cancer and infectious diseases, today announced the completion of a $28.5 million equity financing.",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2020-10-07T20:30:00",
+        "date": "2020-10-07T16:30:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EDT"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Announces $28.5 Million Financing To Advance Clinical Pipeline and Immunophage™ Platform Targeting Multiple Cancers",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6346/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T06:11:18",
+      "lastUpdatedUTC": "2021-01-14T01:44:50"
+    },
+    {
+      "id": 6341,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6341",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-reports-early-data-phase-12-clinical"
+      },
+      "title": "Sensei Biotherapeutics Reports Early Data from Phase 1/2 Clinical Trial of SNS-301 in Combination with Pembrolizumab in Advanced Head and Neck Cancer Patients at ESMO 2020",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "SNS-301 demonstrated early signals of anti-tumor activity correlated with immune response and tumor infiltration BOSTON &amp; GAITHERSBURG, Md.--( BUSINESS WIRE )--Sensei Biotherapeutics, Inc., a clinical-stage biopharmaceutical company developing personalized yet off the shelf immunotherapies for",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2020-09-18T12:01:00",
+        "date": "2020-09-18T08:01:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EDT"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Reports Early Data from Phase 1/2 Clinical Trial of SNS-301 in Combination with Pembrolizumab in Advanced Head and Neck Cancer Patients at ESMO 2020",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6341/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T06:05:59",
+      "lastUpdatedUTC": "2021-01-13T11:41:04"
+    },
+    {
+      "id": 6336,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6336",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-announces-appointment-marie-louise"
+      },
+      "title": "Sensei Biotherapeutics Announces Appointment of Marie-Louise Fjällskog, M.D., Ph.D., as Chief Medical Officer",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "GAITHERSBURG, Md. &amp; BOSTON--( BUSINESS WIRE )--Sensei Biotherapeutics, Inc., a clinical-stage biopharmaceutical company developing precision immuno-oncology therapies, today announced the appointment of Marie-Louise Fjällskog, M.D., Ph.D., as Chief Medical Officer, responsible for leading clinical",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2020-06-15T12:00:00",
+        "date": "2020-06-15T08:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EDT"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Announces Appointment of Marie-Louise Fjällskog, M.D., Ph.D., as Chief Medical Officer",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6336/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T06:02:26",
+      "lastUpdatedUTC": "2021-01-14T01:46:47"
+    },
+    {
+      "id": 6331,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6331",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-completes-acquisition-alvaxa-biosciences"
+      },
+      "title": "Sensei Biotherapeutics Completes Acquisition of Alvaxa Biosciences, a Camelid Antibody Therapeutics Company",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "Acquisition Advances Sensei’s Core Capabilities in Immunology and Antibody Engineering by Supercharging its ImmunoPhage™ Platform GAITHERSBURG, Md. &amp; BOSTON--( BUSINESS WIRE )-- Sensei Biotherapeutics , Inc., a clinical-stage biopharmaceutical company developing precision immuno-oncology therapies,",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2020-05-27T12:00:00",
+        "date": "2020-05-27T08:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EDT"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Completes Acquisition of Alvaxa Biosciences, a Camelid Antibody Therapeutics Company",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6331/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T05:57:30",
+      "lastUpdatedUTC": "2021-01-14T01:47:17"
+    },
+    {
+      "id": 6326,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6326",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-appoints-robert-pierce-md-chief"
+      },
+      "title": "Sensei Biotherapeutics Appoints Robert Pierce, M.D., as Chief Scientific Officer",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "Opening of New Boston Facility Focused on Cancer Drug Development and Expansion of Expert Oncology Team GAITHERSBURG, Md. &amp; BOSTON--( BUSINESS WIRE )-- Sensei Biotherapeutics , Inc., a clinical-stage biopharmaceutical company developing precision immuno-oncology therapies, today announced the",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2020-03-18T12:00:00",
+        "date": "2020-03-18T08:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EDT"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Appoints Robert Pierce, M.D., as Chief Scientific Officer",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6326/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T05:54:34",
+      "lastUpdatedUTC": "2021-01-14T01:48:05"
+    },
+    {
+      "id": 6321,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6321",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-present-31st-annual-piper-jaffray"
+      },
+      "title": "Sensei Biotherapeutics to Present at the 31st Annual Piper Jaffray Healthcare Conference",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "GAITHERSBURG, Md.--( BUSINESS WIRE )--Sensei Biotherapeutics, Inc., a clinical-stage biopharmaceutical company developing precision immuno-oncology therapies, today announced that John Celebi, President and Chief Executive Officer of Sensei Biotherapeutics, will present a company overview at the",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2019-11-26T13:00:00",
+        "date": "2019-11-26T08:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EST"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics to Present at the 31st Annual Piper Jaffray Healthcare Conference",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6321/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T05:50:53",
+      "lastUpdatedUTC": "2021-01-14T01:42:05"
+    },
+    {
+      "id": 6431,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6431",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-announces-first-patient-dosed-phase-12"
+      },
+      "title": "Sensei Biotherapeutics Announces First Patient Dosed in Phase 1/2 Clinical Trial of SNS-301 in Patients with ASPH-Positive Head and Neck Cancer",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "GAITHERSBURG, Md.--( BUSINESS WIRE )--Sensei Biotherapeutics, Inc., a clinical-stage biopharmaceutical company developing precision immuno-oncology therapies, today announced the dosing of the first patient in its Phase 1/2 clinical trial evaluating SNS-301 in patients with ASPH‑positive head and",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2019-11-18T13:00:00",
+        "date": "2019-11-18T08:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EST"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Announces First Patient Dosed in Phase 1/2 Clinical Trial of SNS-301 in Patients with ASPH-Positive Head and Neck Cancer",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6431/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T07:35:00",
+      "lastUpdatedUTC": "2021-01-14T01:49:32"
+    },
+    {
+      "id": 6426,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6426",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-present-citi-14th-annual-biotech"
+      },
+      "title": "Sensei Biotherapeutics to Present at Citi 14th Annual Biotech Conference",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "GAITHERSBURG, Md.--( BUSINESS WIRE )--Sensei Biotherapeutics, Inc., a clinical-stage biopharmaceutical company developing precision immuno-oncology therapies, today announced that John Celebi, President and Chief Executive Officer of Sensei Biotherapeutics, will participate in a private company",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2019-08-28T12:00:00",
+        "date": "2019-08-28T08:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EDT"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics to Present at Citi 14th Annual Biotech Conference",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6426/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T07:33:21",
+      "lastUpdatedUTC": "2021-01-14T01:50:19"
+    },
+    {
+      "id": 6421,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6421",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-announces-clinical-trial-collaboration"
+      },
+      "title": "Sensei Biotherapeutics Announces Clinical Trial Collaboration Agreement with AstraZeneca for Two Phase 2 Studies of SNS-301",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "Trials to Evaluate the Safety, Tolerability and Preliminary Activity of Sensei’s SNS-301, in Combination with IMFINZI® (durvalumab), in Multiple Solid Tumor Types GAITHERSBURG, Md.--( BUSINESS WIRE )--Sensei Biotherapeutics, Inc., a clinical-stage biopharmaceutical company developing precision",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2019-05-07T12:00:00",
+        "date": "2019-05-07T08:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EDT"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Announces Clinical Trial Collaboration Agreement with AstraZeneca for Two Phase 2 Studies of SNS-301",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6421/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T07:31:06",
+      "lastUpdatedUTC": "2021-01-14T01:50:58"
+    },
+    {
+      "id": 6411,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6411",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-appoints-former-head-national-cancer"
+      },
+      "title": "Sensei Biotherapeutics Appoints Former Head of the National Cancer Institute, Samuel Broder, M.D. to its Board of Directors",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "GAITHERSBURG, Md.--( BUSINESS WIRE )--Sensei Biotherapeutics, Inc., a clinical-stage biopharmaceutical company developing precision immuno-oncology therapies, today announced the appointment of Samuel Broder, M.D. to its Board of Directors. Dr. Broder is an accomplished leader in the oncology space",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2019-04-15T12:00:00",
+        "date": "2019-04-15T08:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EDT"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Appoints Former Head of the National Cancer Institute, Samuel Broder, M.D. to its Board of Directors",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6411/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T07:23:27",
+      "lastUpdatedUTC": "2021-01-14T01:51:34"
+    },
+    {
+      "id": 6416,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6416",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-announces-formation-new-immuno-oncology"
+      },
+      "title": "Sensei Biotherapeutics Announces Formation of New Immuno-Oncology Advisory Board",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "- Company brings together world-recognized leaders in immunobiology, cancer biology, and clinical and translational medicine - GAITHERSBURG, Md.--( BUSINESS WIRE )--Sensei Biotherapeutics, Inc., a clinical-stage biopharmaceutical company developing precision immuno-oncology therapies, today",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2019-04-11T12:00:00",
+        "date": "2019-04-11T08:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EDT"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Announces Formation of New Immuno-Oncology Advisory Board",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6416/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T07:26:54",
+      "lastUpdatedUTC": "2021-01-14T01:52:37"
+    },
+    {
+      "id": 6406,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6406",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-presents-first-preclinical-data-sns-723"
+      },
+      "title": "Sensei Biotherapeutics Presents First Preclinical Data on SNS-723 CAR-T and Long-Term Results on SNS-301 Data at the 2019 American Association for Cancer Research (AACR) Annual Meeting",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "-Multiple SNS-723 CAR constructs demonstrated significant expression of ASPH-specific CARs on T-cells, dose-dependent cell killing, and cytokine responses -Dose-dependent and durable ASPH-specific immune responses observed in patients dosed with SNS-301, consistent with earlier findings",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2019-04-01T17:00:00",
+        "date": "2019-04-01T13:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EDT"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Presents First Preclinical Data on SNS-723 CAR-T and Long-Term Results on SNS-301 Data at the 2019 American Association for Cancer Research (AACR) Annual Meeting",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6406/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T07:07:49",
+      "lastUpdatedUTC": "2021-01-14T01:53:30"
+    },
+    {
+      "id": 6396,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6396",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-present-first-preclinical-data-sns-723"
+      },
+      "title": "Sensei Biotherapeutics To Present First Preclinical Data on SNS-723 and Long-Term Clinical Results on SNS-301 Data at The 2019 American Association for Cancer Research (AACR) Annual Meeting",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "GAITHERSBURG, Md.--( BUSINESS WIRE )--Sensei Biotherapeutics, Inc., a clinical-stage biopharmaceutical company developing precision immuno-oncology therapies, today announced that it will present novel preclinical data on SNS-723, a first-in-class CAR-T cell therapy and additional Phase 1 data on",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2019-02-28T13:00:00",
+        "date": "2019-02-28T08:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EST"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics To Present First Preclinical Data on SNS-723 and Long-Term Clinical Results on SNS-301 Data at The 2019 American Association for Cancer Research (AACR) Annual Meeting",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6396/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T07:04:16",
+      "lastUpdatedUTC": "2021-01-14T01:54:14"
+    },
+    {
+      "id": 6401,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6401",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-present-bio-ceo-investor-conference"
+      },
+      "title": "Sensei Biotherapeutics to Present at BIO CEO & Investor Conference",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "GAITHERSBURG, Md.--( BUSINESS WIRE )-- Sensei Biotherapeutics, Inc. , a clinical-stage biopharmaceutical company developing precision immuno-oncology therapies, announced today that John Celebi, President and Chief Executive Officer of Sensei Biotherapeutics, will present a company overview at the",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2019-02-05T13:30:00",
+        "date": "2019-02-05T08:30:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EST"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics to Present at BIO CEO & Investor Conference",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6401/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T07:05:58",
+      "lastUpdatedUTC": "2021-01-14T01:54:46"
+    },
+    {
+      "id": 6391,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6391",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-present-30th-annual-piper-jaffray"
+      },
+      "title": "Sensei Biotherapeutics to Present at the 30th Annual Piper Jaffray Healthcare Conference",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "GAITHERSBURG, Md.--( BUSINESS WIRE )--Sensei Biotherapeutics, Inc., a clinical-stage biopharmaceutical company developing precision immuno-oncology therapies, announced today that John Celebi, President and Chief Executive Officer of Sensei Biotherapeutics, will present a company overview at the 30",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2018-11-19T14:00:00",
+        "date": "2018-11-19T09:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EST"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics to Present at the 30th Annual Piper Jaffray Healthcare Conference",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6391/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T07:02:06",
+      "lastUpdatedUTC": "2021-01-14T01:55:16"
+    },
+    {
+      "id": 6386,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6386",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-presents-clinical-trial-data"
+      },
+      "title": "Sensei Biotherapeutics Presents Clinical Trial Data Demonstrating SNS-301 Induces Rapid and Robust Antigen-specific Immune Responses at the Society for Immunotherapy of Cancer’s 33rd Annual Meeting",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "Dose-dependent, ASPH-specific immune responses observed Company to initiate SNS-301 Phase 2 study in multiple solid tumor indications and hematological malignancies in early 2019 GAITHERSBURG, Md.--( BUSINESS WIRE )--Sensei Biotherapeutics, Inc., a clinical-stage biopharmaceutical company",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2018-11-06T13:00:00",
+        "date": "2018-11-06T08:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EST"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Presents Clinical Trial Data Demonstrating SNS-301 Induces Rapid and Robust Antigen-specific Immune Responses at the Society for Immunotherapy of Cancer’s 33rd Annual Meeting",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6386/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T06:59:05",
+      "lastUpdatedUTC": "2021-01-14T01:56:08"
+    },
+    {
+      "id": 6381,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6381",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-reports-results-phase-1-clinical-trial"
+      },
+      "title": "Sensei Biotherapeutics Reports Results from Phase 1 Clinical Trial of SNS-301, a First-in-Class Cancer Immunotherapy Targeting ASPH, a Novel Tumor-Specific Antigen",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "SNS-301 demonstrated a favorable safety profile, improvements in disease parameters, and robust antigen-specific immune responses Clinical results presented in Poster Discussion session at ESMO 2018 Company to initiate Phase 2 study of SNS-301 in multiple solid tumor indications and hematological",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2018-10-19T11:00:00",
+        "date": "2018-10-19T07:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EDT"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Reports Results from Phase 1 Clinical Trial of SNS-301, a First-in-Class Cancer Immunotherapy Targeting ASPH, a Novel Tumor-Specific Antigen",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6381/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T06:57:17",
+      "lastUpdatedUTC": "2021-01-14T01:56:45"
+    },
+    {
+      "id": 6376,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6376",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-present-clinical-data-upcoming-oncology"
+      },
+      "title": "Sensei Biotherapeutics to Present Clinical Data at Upcoming Oncology Medical Conferences",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "Data to highlight SNS-301, a first-in-class cancer immunotherapy targeting ASPH, a novel tumor-specific antigen GAITHERSBURG, Md.--( BUSINESS WIRE )-- Sensei Biotherapeutics, Inc. , a clinical-stage biopharmaceutical company discovering and developing precision immuno-oncology therapies, today",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2018-10-09T13:00:00",
+        "date": "2018-10-09T09:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EDT"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics to Present Clinical Data at Upcoming Oncology Medical Conferences",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6376/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T06:53:14",
+      "lastUpdatedUTC": "2021-01-14T01:58:20"
+    },
+    {
+      "id": 6371,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6371",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-appoints-ildiko-csiki-md-phd-chief"
+      },
+      "title": "Sensei Biotherapeutics Appoints Ildiko Csiki, M.D., Ph.D., as Chief Medical Officer",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "Sensei CMO Ildiko Csiki (Photo: Business Wire) August 21, 2018 08:00 AM Eastern Daylight Time GAITHERSBURG, Md.--( BUSINESS WIRE )--Sensei Biotherapeutics, Inc., a privately-held biopharmaceutical company developing immuno-oncology therapies that teach the immune system to recognize and attack",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2018-08-21T12:00:00",
+        "date": "2018-08-21T08:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EDT"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Appoints Ildiko Csiki, M.D., Ph.D., as Chief Medical Officer",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6371/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T06:49:00",
+      "lastUpdatedUTC": "2021-01-14T01:58:58"
+    },
+    {
+      "id": 6366,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6366",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-reports-new-data-phase-1-clinical-trial"
+      },
+      "title": "Sensei Biotherapeutics Reports New Data from Phase 1 Clinical Trial of SNS-301",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "SNS-301 demonstrated a strong safety profile and promising immune responses in patients with biochemically recurrent prostate cancer SNS-301 is a first-in-class immunotherapy candidate emerging from Sensei’s SPIRIT platform that targets a novel embryonic antigen found on more than 20 types of",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2018-06-05T13:00:00",
+        "date": "2018-06-05T09:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EDT"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Reports New Data from Phase 1 Clinical Trial of SNS-301",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6366/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T06:47:39",
+      "lastUpdatedUTC": "2021-01-14T01:59:50"
+    },
+    {
+      "id": 6361,
+      "link": {
+        "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6361",
+        "hostedUrl": "http://investors.senseibio.com/news-releases/news-release-details/sensei-biotherapeutics-appoints-john-celebi-president-and-chief"
+      },
+      "title": "Sensei Biotherapeutics Appoints John Celebi as President and Chief Executive Officer",
+      "type": {
+        "title": "General",
+        "id": 3886
+      },
+      "teaser": "Experienced Biotechnology Executive to Lead Company’s Growth Strategy for Cancer Immunotherapies, Including Lead Clinical Candidate SNS-301 Sensei CEO John Celebi (Photo: Business Wire) GAITHERSBURG, Md.--( BUSINESS WIRE )--Sensei Biotherapeutics, Inc., a privately-held biopharmaceutical company",
+      "language": "en",
+      "releaseDate": {
+        "dateUTC": "2018-05-16T11:00:00",
+        "date": "2018-05-16T07:00:00",
+        "timezone": {
+          "name": "America/New_York",
+          "code": "EDT"
+        }
+      },
+      "body": [
+        {
+          "type": "html",
+          "link": {
+            "id": null,
+            "source": "api",
+            "title": "Sensei Biotherapeutics Appoints John Celebi as President and Chief Executive Officer",
+            "url": "https://clientapi.gcs-web.com/data/97b90162-1b37-419e-8308-f5625c6d8dbd/news/6361/html"
+          }
+        }
+      ],
+      "additionalFormats": [],
+      "categories": [],
+      "unpublishOn": null,
+      "thumbnail": null,
+      "createdOnUTC": "2020-12-28T06:32:05",
+      "lastUpdatedUTC": "2021-01-14T02:00:24"
+    }
+  ],
+  "error": null
+}

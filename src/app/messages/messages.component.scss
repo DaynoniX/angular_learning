@@ -1,0 +1,28 @@
+.message{
+  &-container{
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 20px 30px;
+    background: #ffffff;
+    border-radius: 0 0 0 10px;
+    max-width: 300px;
+
+  }
+  &-box{
+    margin-bottom: 10px;
+    background: rgba(0, 164, 128, 0.03);
+    padding: 2px 7px;
+  }
+  &-list{
+    margin:  20px 0px;
+    max-height: calc(100vh - 160px);
+    overflow-y: auto;
+  }
+}
+.button{
+  width: 100%;
+  text-align: center;
+  margin-top: 15px;
+}
+
